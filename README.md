@@ -1,2 +1,1 @@
-# ntk_beyond_limit
-Source code for the paper "Neural Tangent Kernel Beyond the Infinite-Width Limit: Effects of Depth and Initialization" by Mariia Seleznova &amp; Gitta Kutyniok, ICML22
+Source code for the paper ["Neural Tangent Kernel Beyond the Infinite-Width Limit: Effects of Depth and Initialization"](https://arxiv.org/abs/2202.00553) by [Mariia Seleznova](https://www.ai.math.uni-muenchen.de/members/phd_students/seleznova/index.html) &amp; [Gitta Kutyniok](https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html), *ICML 2022*
