@@ -22,7 +22,7 @@ L = 20  # depth
 
 alpha = 10e-5 # learning rate
 epochs = 3000
-kernel_steps = [0,100,500,1000,2000,3000] # epochs at which the NTK is computed
+kernel_steps = [0,1,10,20,50,100,200,300,400,500,600,700,800,900,1000,1200,1500,1700,2000,2500,3000] # epochs at which the NTK is computed
 
 var_w_s = [1.0,2.0,2.2]  # variance parameter \sigma_w^2
 var_b = 0.               # variance parameter \sigma_b^2
